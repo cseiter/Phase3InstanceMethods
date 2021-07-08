@@ -250,3 +250,4 @@ always need to load the `Dog` class when loading the `Person` class. As classes
 get larger, it also becomes easier to manage your code if you know each file
 contains _one_ class. Keeping to these conventions makes it easier in the future
 to go back and read code you've previously written.
+# Phase3InstanceMethods
